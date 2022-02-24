@@ -21,7 +21,7 @@
 </h3>
 
   <p align="center">
-    project_description
+    simple CRUD todo list
     <br />
     <a href="https://github.com/bckelley/todo-list">
         <strong>
