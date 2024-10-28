@@ -131,7 +131,7 @@ Distributed under the **  **. See `LICENSE` for more information.
 ## Contact
 
 ### Bradon Kelley
-* Twitter: [@bradonconrad](https://twitter.com/bradonconrad)
+* Issues:  []()
 * Email:   [business@bradonckelley.me](business@bradonckelley.me)
 
 Project Link: [https://bckelley.github.io/todo-list/](https://bckelley.github.io/todo-list/)
