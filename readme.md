@@ -134,8 +134,6 @@ Distributed under the **  **. See `LICENSE` for more information.
 * Issues:  []()
 * Email:   [business@bradonckelley.me](business@bradonckelley.me)
 
-Project Link: [https://bckelley.github.io/todo-list/](https://bckelley.github.io/todo-list/)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
